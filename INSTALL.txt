@@ -1,0 +1,26 @@
+First start the game by typing "make play" in the right directory
+Next, read through the rules if needed by typing "rules"
+Next, start the game by typing "start"
+Enter in the number of players you want.
+Next, add their names seperated by spaces
+Start for each player by writing "start [player number]"
+Start entering words and any commands as needed. The folowing commands can be used:
+  score : view score of the PREVIOUS rounds (score does not update until every player has gone)
+  hint: get a hint, a couple of letters obscured with asterisks
+  words: view all previously entered words:
+  end: end turn 
+  quit: quit the game 
+  Remember all words you are entering into the game must be prefaced with the command "word" 
+  and a space in the format "word ******" 
+Press end when you are done or let the timer run out
+Let other players go
+
+Keep in mind: the score is calculated once everybody has gone and only words that
+are unique to you are counted. If two players enter the same word, neither gets points
+
+Once everybody is done, you are in the endgame and have the following commands
+  score: view score and other stats from this round
+  rematch: start a new game with a new board, but the smae players and score 
+  words: view all possible words from this round 
+  quit: quit the game
+Type "quit" when you are done
