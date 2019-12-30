@@ -7,7 +7,7 @@ This game makes use of advanced software design principles emphasized in CS3110 
 
 The game also makes use of advanced functional programming features such as pattern-matching and tail-recursion.
 
-A video of gameplay with all features demonstrated can be viewed [here](https://drive.google.com/open?id=1zoCLJR4d18rMaWO6j_UEOYgyF8dMw0lW)
+A video of gameplay with all features demonstrated can be viewed [here](https://drive.google.com/open?id=1VXclQLf345q2G8oQ_PrUNtggmF9BWtWY)
 
 Made in collaboration with Max Albicker and John Chung
 
